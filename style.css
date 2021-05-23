@@ -111,7 +111,7 @@ article{
   box-shadow: 2px 2px 3px rgba(104, 104, 104);
 }
 article:hover{
-  transform: scale(1.4);
+  transform: scale(1.2);
   cursor: pointer;
 }
 
